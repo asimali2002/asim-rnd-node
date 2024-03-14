@@ -1,2 +1,2 @@
 # asim-rnd-node
-research repo
+research repo for the node js reserach and copilot usage
